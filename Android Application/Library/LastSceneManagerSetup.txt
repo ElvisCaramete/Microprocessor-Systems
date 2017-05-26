@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/MSApp/Scene/Ms Proj.unity
+  isLoaded: 1
+  isActive: 1
